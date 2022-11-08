@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933771716261",
+    "project_id": "eullie-grocery",
+    "storage_bucket": "eullie-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933771716261:android:d813e83d1e2bbe88318f4c",
+        "android_client_info": {
+          "package_name": "com.dhruva.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933771716261-u7l782j3qesc4kpufmg0li1q2ctpgm8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GWrOZo4j4NQejWLg3zNxhISdiQyYiXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933771716261-u7l782j3qesc4kpufmg0li1q2ctpgm8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
